@@ -1,0 +1,34 @@
+<html>
+	<head>
+		<title>ColorSelect: jQuery Plugin Demo</title>
+		<link rel="stylesheet" type="text/css" href="colorSelect.css" />
+		<script language="javascript" type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script language="javascript" type="text/javascript" src="colorSelect.js"></script>
+	</head>
+	
+	<body>
+		<select id="color-select">
+			<optgroup>
+				<option value="#CC0000">lightred</option>
+				<option value="#00CC00">lightgreen</option>
+				<option value="#0000CC">lightblue</option>
+			</optgroup>
+			<optgroup>
+				<option value="#990000">midred</option>
+				<option value="#009900">midgreen</option>
+				<option value="#000099">midblue</option>
+			</optgroup>
+			<optgroup>
+				<option value="#660000">darkred</option>
+				<option value="#006600">darkgreen</option>
+				<option value="#000066">darkblue</option>
+			</optgroup>
+		</select>
+		
+		<script language="javascript" type="text/javascript">
+			$('#color-select').colorSelect();
+		</script>
+		
+	</body>
+	
+</html>
