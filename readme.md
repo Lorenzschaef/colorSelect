@@ -28,4 +28,4 @@ The plugin simply creates a tree of divs that you can style to your liking. Have
 
 ## Demo
 
-[click here](http://htmlpreview.github.com/Lorenzschaef/colorSelect/blob/master/demo.html)
+[click here](http://htmlpreview.github.com/?https://github.com/Lorenzschaef/colorSelect/blob/master/demo.html)
