@@ -25,3 +25,7 @@ The text inside the option-tags is not displayed, but it's good as a fallback.
 ## Styling
 
 The plugin simply creates a tree of divs that you can style to your liking. Have a look at the provided css file for the defined classes.
+
+## Demo
+
+[click here](http://htmlpreview.github.com/Lorenzschaef/colorSelect/blob/master/demo.html)
