@@ -1,4 +1,4 @@
-#ColorSelect
+# ColorSelect
 
 This is a simple jQuery plugin, that turns a select box into a user friendly color picker.
 
